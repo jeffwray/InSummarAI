@@ -1,0 +1,38 @@
+# Python-related
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+.eggs/
+.pytest_cache/
+myenv
+
+# Virtual environment
+venv/
+env/
+.env
+
+# IDE-related
+.vscode/
+.idea/
+
+# Project-specific
+*.docx
+*.json
+*.wav
+*.m4a
+*.mp3
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env

@@ -1,0 +1,6 @@
+openai
+python-docx
+pyannote.audio
+torchaudio
+ffmpeg-python
+matplotlib
