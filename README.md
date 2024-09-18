@@ -1,6 +1,6 @@
 # InSummarAI
 
-InSummarAI: Transcribe voice recordings (MP3, M4A) from iPhone and Android devices and generate comprehensive meeting minutes using AI assistance.
+InSummarAI (pronounced "In Summary"): Transcribe voice recordings (MP3, M4A) from iPhone and Android devices and generate comprehensive meeting minutes using AI assistance.
 
 ## Overview
 
